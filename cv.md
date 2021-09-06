@@ -19,7 +19,7 @@ I study a lot - 3 - 6 hours a day. Every day. Since 2013 I have been working on 
 ## My skills ##
 * JavaScript (average level)
 * HTML, CSS (average level)
-* React.js (basic level)
+* React (basic level)
 * Redux (basic level)
 * Git (basic level)
 
