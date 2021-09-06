@@ -1,5 +1,5 @@
 # Denis Logunovich #
-#### Frontend Developer (Junior) ####
+### Frontend Developer (Junior) ###
 
 ***
 
@@ -37,6 +37,6 @@ Two years of work in the web studio Atlant-Telecom. Courses JavaScript and React
         localStorage.setItem('today', learningTime);  
         updTodayTime(learningTime);  
     }, 1000);  
-} </pre>
+} // calculate my learning time</pre>
 
 (this is part of my program - a timer on which I count the hours of learning JS. Here I use localStorage to make the program work even if I close the browser)
